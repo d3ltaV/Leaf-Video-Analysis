@@ -1,0 +1,20 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Backend runtime artifacts
+motion-quant-back/uploads/
+motion-quant-back/outputs/
+
+# Node / Angular
+node_modules/
+/dist
+.angular/
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.idea/
